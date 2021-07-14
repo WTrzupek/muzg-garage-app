@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/muzg-garage-app/static/css/main.0d801b19.chunk.css",
+    "main.js": "/muzg-garage-app/static/js/main.b3105311.chunk.js",
+    "main.js.map": "/muzg-garage-app/static/js/main.b3105311.chunk.js.map",
+    "runtime-main.js": "/muzg-garage-app/static/js/runtime-main.50bc5aef.js",
+    "runtime-main.js.map": "/muzg-garage-app/static/js/runtime-main.50bc5aef.js.map",
+    "static/js/2.43cb2088.chunk.js": "/muzg-garage-app/static/js/2.43cb2088.chunk.js",
+    "static/js/2.43cb2088.chunk.js.map": "/muzg-garage-app/static/js/2.43cb2088.chunk.js.map",
+    "static/js/3.f2946ce1.chunk.js": "/muzg-garage-app/static/js/3.f2946ce1.chunk.js",
+    "static/js/3.f2946ce1.chunk.js.map": "/muzg-garage-app/static/js/3.f2946ce1.chunk.js.map",
+    "index.html": "/muzg-garage-app/index.html",
+    "static/css/main.0d801b19.chunk.css.map": "/muzg-garage-app/static/css/main.0d801b19.chunk.css.map",
+    "static/js/2.43cb2088.chunk.js.LICENSE.txt": "/muzg-garage-app/static/js/2.43cb2088.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50bc5aef.js",
+    "static/js/2.43cb2088.chunk.js",
+    "static/css/main.0d801b19.chunk.css",
+    "static/js/main.b3105311.chunk.js"
+  ]
+}
