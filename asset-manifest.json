@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/muzg-garage-app/static/css/main.0d801b19.chunk.css",
-    "main.js": "/muzg-garage-app/static/js/main.c851b61a.chunk.js",
-    "main.js.map": "/muzg-garage-app/static/js/main.c851b61a.chunk.js.map",
+    "main.js": "/muzg-garage-app/static/js/main.b137feca.chunk.js",
+    "main.js.map": "/muzg-garage-app/static/js/main.b137feca.chunk.js.map",
     "runtime-main.js": "/muzg-garage-app/static/js/runtime-main.50bc5aef.js",
     "runtime-main.js.map": "/muzg-garage-app/static/js/runtime-main.50bc5aef.js.map",
     "static/js/2.43cb2088.chunk.js": "/muzg-garage-app/static/js/2.43cb2088.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.50bc5aef.js",
     "static/js/2.43cb2088.chunk.js",
     "static/css/main.0d801b19.chunk.css",
-    "static/js/main.c851b61a.chunk.js"
+    "static/js/main.b137feca.chunk.js"
   ]
 }
