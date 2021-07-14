@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/muzg-garage-app/static/css/main.ee61a097.chunk.css",
-    "main.js": "/muzg-garage-app/static/js/main.e9d67e5f.chunk.js",
-    "main.js.map": "/muzg-garage-app/static/js/main.e9d67e5f.chunk.js.map",
+    "main.css": "/muzg-garage-app/static/css/main.9c295c02.chunk.css",
+    "main.js": "/muzg-garage-app/static/js/main.3e1d942e.chunk.js",
+    "main.js.map": "/muzg-garage-app/static/js/main.3e1d942e.chunk.js.map",
     "runtime-main.js": "/muzg-garage-app/static/js/runtime-main.50bc5aef.js",
     "runtime-main.js.map": "/muzg-garage-app/static/js/runtime-main.50bc5aef.js.map",
     "static/js/2.43cb2088.chunk.js": "/muzg-garage-app/static/js/2.43cb2088.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.f2946ce1.chunk.js": "/muzg-garage-app/static/js/3.f2946ce1.chunk.js",
     "static/js/3.f2946ce1.chunk.js.map": "/muzg-garage-app/static/js/3.f2946ce1.chunk.js.map",
     "index.html": "/muzg-garage-app/index.html",
-    "static/css/main.ee61a097.chunk.css.map": "/muzg-garage-app/static/css/main.ee61a097.chunk.css.map",
+    "static/css/main.9c295c02.chunk.css.map": "/muzg-garage-app/static/css/main.9c295c02.chunk.css.map",
     "static/js/2.43cb2088.chunk.js.LICENSE.txt": "/muzg-garage-app/static/js/2.43cb2088.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.50bc5aef.js",
     "static/js/2.43cb2088.chunk.js",
-    "static/css/main.ee61a097.chunk.css",
-    "static/js/main.e9d67e5f.chunk.js"
+    "static/css/main.9c295c02.chunk.css",
+    "static/js/main.3e1d942e.chunk.js"
   ]
 }
